@@ -1,0 +1,49 @@
+{
+  "name": "starter-next-ts-template",
+  "description": "A Mesh starter template",
+  "version": "0.1.0",
+  "private": true,
+  "author": "MeshJS",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@meshsdk/core": "^1.7",
+    "@meshsdk/react": "^1.7",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@types/formidable": "^3.4.5",
+    "@types/pako": "^2.0.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "formidable": "^3.5.1",
+    "lucide-react": "^0.441.0",
+    "next": "14.2.3",
+    "pako": "^2.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-typewriter-effect": "^1.1.0",
+    "react-typing-effect": "^2.0.5",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7",
+    "web-vad": "^0.0.6",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^14.2.3",
+    "@types/eslint": "^8.56.5",
+    "@types/node": "^20.16.11",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18",
+    "@types/react-type-animation": "^1.1.4",
+    "@types/ws": "^8.5.12",
+    "eslint": "^8.57.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
